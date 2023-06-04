@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/product-preview-card-component-solution-using-html5-and-css3-XI1vcbzcGu](https://your-solution-url.com)
+- Live Site URL: [https://amirat9.github.io/product-preview-card-component-solution/](https://your-live-site-url.com)
 
 ## My process
 
@@ -49,5 +49,3 @@ Recently I startet a my journey to become a full-stack developer and through thi
 
 - Frontend Mentor - [@Amirat9](https://www.frontendmentor.io/profile/yourusername)
 - Github - [@Amirat9](https://github.com/Amirat9)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
